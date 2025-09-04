@@ -16,12 +16,12 @@ O projeto permite **criar, ler, atualizar e deletar posts** de forma dinâmica, 
 💡 Ideal para praticar React moderno, integração com APIs e boas práticas de front-end.
 
 ---
-
+```
 ## 🗂 Estrutura do Projeto
 
 src/
 ├─ axios/
-│ └─ config.js # Configuração do Axios
+│ └─ config.js
 ├─ components/
 │ └─ NavBar.jsx
 │ └─ NavBar.css
@@ -38,7 +38,7 @@ src/
 ├─ App.jsx
 ├─ index.css
 └─ main.jsx
-
+```
 
 ---
 
