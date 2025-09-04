@@ -58,7 +58,7 @@ src/
 
 1. Clone este repositório:
 ```bash
-git clone (https://github.com/Pires013/blog-react-axios)
+git clone https://github.com/Pires013/blog-react-axios
 Instale as dependências:
 npm install
 Inicie o servidor de desenvolvimento:
