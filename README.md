@@ -39,8 +39,6 @@ src/
 ├─ index.css
 └─ main.jsx
 
-yaml
-Copiar código
 
 ---
 
@@ -69,7 +67,7 @@ npm run dev
 Acesse no navegador:
 
 http://localhost:5173
-
+ ```
 Tecnologias e Diferenciais
 React Hooks: useState, useEffect
 
@@ -84,7 +82,7 @@ Componentização: código organizado e modular
 Boas práticas de UX: mensagens de carregamento e feedback visual
 
 📸 Demonstração
-Adicione GIFs ou screenshots do projeto aqui
+
 ![Home](https://github.com/user-attachments/assets/32eb7234-e945-40e3-88e7-8b6f2b98fd52)
 ![New Post](https://github.com/user-attachments/assets/b60da85c-bb9a-479b-95a8-ac68f2df2ff5)
 ![Admin](https://github.com/user-attachments/assets/663db722-a8e0-49c8-8d39-45f13796c339)
